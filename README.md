@@ -1,0 +1,1 @@
+This repository represents the second exercise in object-oriented design, focusing on the concepts of encapsulation and inheritance. The goal is to demonstrate the application of these two principles through a practical example, showcasing how they can be utilized effectively in object-oriented programming.
